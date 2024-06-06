@@ -6,7 +6,7 @@
 
 Welcome to the Quantum_Programming repository! This repo includes introductory lectures about quantum theory and quantum computing/programming, as well as some coding examples to run simple quantum algorithms using quantum simulators and real quantum computers.
 
-These materials were gathered during a 2-day course at [CSC](https://csc.fi/en/). You can view my certificate [here](certificate.pdf). CSC offers a comprehensive GitHub repository on quantum computing which you can access [here](https://github.com/FiQCI).
+These materials were gathered during a 2-day course at [CSC](https://csc.fi/en/). You can view my certificate [here](Certificate.pdf). CSC offers a comprehensive GitHub repository on quantum computing which you can access [here](https://github.com/FiQCI).
 
 Quantum computing is a fascinating field. I plan to further my studies on this topic and will update this repository with more practical and advanced codes in the future.
 
